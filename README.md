@@ -1,5 +1,8 @@
 # GHO-yearnV3-vault UI 
 
+ # ETH Global LFGHO Hackathon Vault Second Place 🥈
+https://ethglobal.com/showcase/gho-yearnv3-vault-wau9w
+
 This is the UI of GHO-yearnV3-vault, meant to mock and show how our vault contracts would interact with out lightwieght and easy to use Front End built using NextJs 14, Tailwind, ShadcnUI, Family Connect Kit and ethers.js 
 
 
